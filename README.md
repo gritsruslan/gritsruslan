@@ -8,7 +8,7 @@ Welcome! Summary about me:
 - Stack: .NET, C#, ASP.NET Core
 
 
-My name is Ruslan, I'm a .NET Developer specializing in C#. My tech stack includes ASP.NET Core, EF Core, Docker, and related technologies such as databases, tooling, libraries and frameworks. I'm also interested in computer networks, operation systems and AI technologies. 
+My name is Ruslan, I'm a .NET Developer specializing in C#. My tech stack includes ASP.NET Core, EF Core, Docker, and related technologies such as databases, tooling, libraries and frameworks. I'm also interested in computer networks, operating systems and AI technologies. 
 
 Currently I'm looking for an intership/first job in this area
 
